@@ -1,0 +1,527 @@
+[00:00:02.649] Server  LOG     ✓ Ready in 2s
+[00:00:32.587] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:40.906] Server  ERROR   ⨯ ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:41.389] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:41.588] Browser ERROR   uncaughtError: Error: ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:41.793] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:41.793] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:35.817] Server  ERROR   ⨯ ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:36.008] Browser ERROR   uncaughtError: Error: ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:36.160] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:36.160] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:36.760] Server  ERROR   ⨯ ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:36.917] Browser ERROR   uncaughtError: Error: ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:37.077] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:37.077] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:37.223] Server  ERROR   ⨯ ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:37.464] Browser ERROR   uncaughtError: Error: ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:01:37.610] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:37.610] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:36.526] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:36.526] Browser ERROR   ./app/login/page.tsx:9:1
+Module not found: Can't resolve 'axios'
+   7 | // en este caso el correo y la contraseña que escribe el usuario.
+   8 |
+>  9 | import axios from "axios";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | // Axios sirve para comunicarse con la base de datos simulada (JSON Server)
+  11 | // y obtener los usuarios registrados.
+  12 |
+
+Import traces:
+  Client Component Browser:
+    ./app/login/page.tsx [Client Component Browser]
+    ./app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/login/page.tsx [Client Component SSR]
+    ./app/login/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:37.114] Server  LOG     ✓ Compiled in 165ms
+[00:02:37.665] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:40.940] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:38.260] Server  LOG     ✓ Compiled in 139ms
+[00:06:50.757] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:26.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:50.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:24.136] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:51.879] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:13.292] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:09.948] Server  LOG     ✓ Compiled in 67ms
+[00:39:24.739] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:28.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:14.500] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:17.189] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:19.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:35.785] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:39.494] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:45.438] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:02.161] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:00.783] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:37.239] Server  LOG     ✓ Compiled in 85ms
+[00:47:45.840] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:48.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:49.440] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:52.329] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:55.063] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:47:56.313] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:47:58.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:05.368] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:11.263] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:48:11.810] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:48:12.016] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:48:12.206] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:48:17.251] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:50:56.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:58.023] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:00.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:57.068] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:01.711] Server  LOG     ✓ Compiled in 47ms
+[00:58:08.314] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:10.056] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:11.821] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:17.743] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:13.867] Server  LOG     ✓ Compiled in 39ms
+[01:08:20.999] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:23.971] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:24.896] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:25.813] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:29.069] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:37.096] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:43.606] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:47.083] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:49.750] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:52.744] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:26.954] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:30.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:01.954] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:04.426] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:05.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:13.558] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:16.675] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:18.013] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:32.663] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:40.663] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:39.179] Server  LOG     ✓ Compiled in 112ms
+[01:15:53.764] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:57.050] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:59.830] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:16:03.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:48.308] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:52.784] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:55.751] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:56.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:17:58.984] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:00.736] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:02.286] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:04.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:13.092] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:15.355] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:20.604] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:22.883] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:24.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:45.008] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:49.323] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:54.817] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:20:55.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:02.530] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:07.241] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:23.206] Server  LOG     ✓ Compiled in 58ms
+[01:29:27.221] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:56.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:58.391] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:02.032] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:20.578] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:36.230] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:43.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:45.179] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:30:47.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:17.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:19.025] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:25.550] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:27.466] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:49.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:52.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:54.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:58.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:00.159] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:02.857] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:09.802] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:27.091] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:32.066] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:33.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
