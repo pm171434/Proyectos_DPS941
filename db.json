@@ -19,5 +19,45 @@
       "role": "usuario"
     }
   ],
+  "projects": [
+    {
+      "id": "46da",
+      "name": "Rebajar",
+      "description": "Estamos gordos",
+      "status": "Completada"
+    },
+    {
+      "id": "b2b1",
+      "name": "Estudiar",
+      "description": "Lear las clases",
+      "status": "Pendiente"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Hacer dieta",
+      "description": "Reducir comida chatarra",
+      "projectId": "46da",
+      "assignedTo": "2",
+      "status": "Completada"
+    },
+    {
+      "title": "Correr en las mañanas",
+      "description": "Correr al menos 30minutos",
+      "projectId": "46da",
+      "assignedTo": "2",
+      "status": "En progreso",
+      "id": "af87"
+    },
+    {
+      "id": "7f3c",
+      "title": "Unidad 1",
+      "description": "Lear las 4 clases",
+      "projectId": "b2b1",
+      "assignedTo": "4702",
+      "status": "Pendiente"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
