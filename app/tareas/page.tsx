@@ -1,11 +1,11 @@
 "use client";
-export const dynamic = "force-dynamic";
-import { useEffect, useState } from "react";
+
+import { Suspense, useEffect, useState } from "react";
 import axios from "axios";
 import { useSearchParams } from "next/navigation";
 import Navbar from "../Componentes/Navegacion";
 
-export default function Tareas() {
+function TareasContent() {
   const searchParams = useSearchParams();
   const selectedProjectId = searchParams.get("projectId");
   const estadoFiltro = searchParams.get("estado");
@@ -329,5 +329,13 @@ export default function Tareas() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function TareasPage() {
+  return (
+    <Suspense fallback={<div className="p-10">Cargando tareas...</div>}>
+      <TareasContent />
+    </Suspense>
   );
 }
